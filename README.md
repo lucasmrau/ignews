@@ -5,16 +5,16 @@ A ReactJS application with NextJS for listing posts and subscription system.  A 
 
 #Tecnologies, Libraries and Hooks
 
-ReactJs 
-NextJs 
-Next Auth 
-Typescript 
-SASS 
-Prismic IO Client 
-Stripe 
-Fauna DB 
-Jest 
-Testing Library 
+-ReactJs 
+-NextJs 
+-Next Auth 
+-Typescript 
+-SASS 
+-Prismic IO Client 
+-Stripe 
+-Fauna DB 
+-Jest 
+-Testing Library 
 
 
 # Demonstration

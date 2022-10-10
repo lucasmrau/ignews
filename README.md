@@ -3,18 +3,18 @@ Newsletter Application
 
 A ReactJS application with NextJS for listing posts and subscription system.  A developed application was developed using the NextAuth application for authentication of applications, such as external consumption, Root API, Server Side Rendering (SSR), Static Site Generation, STRIPE for subscription subscription payments, NextAuth for authentication with JS Giub, FaunaDB for APIS details like user information in a database and Prismic CMS for adding and managing post content.
 
-##Tecnologies, Libraries and Hooks
+## Tecnologies, Libraries and Hooks
 
--ReactJs 
--NextJs 
--Next Auth 
--Typescript 
--SASS 
--Prismic IO Client 
--Stripe 
--Fauna DB 
--Jest 
--Testing Library 
+- ReactJs 
+- NextJs 
+- Next Auth 
+- Typescript 
+- SASS 
+- Prismic IO Client 
+- Stripe 
+- Fauna DB 
+- Jest 
+- Testing Library 
 
 
 ## Demonstration

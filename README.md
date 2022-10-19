@@ -19,7 +19,7 @@ A ReactJS application with NextJS for listing posts and subscription system.  Th
 
 ## Demonstration
 
-https://ig-news-theta.vercel.app/
+demo: https://ig-news-theta.vercel.app/
 
 ![ignews1](https://user-images.githubusercontent.com/82839108/194930928-649609d2-f5d1-4dc8-90e7-ec46e79b8f3f.png)
 ![ignews2](https://user-images.githubusercontent.com/82839108/194930948-bc0167e7-f0d1-49d8-8ef2-dae852557c50.png)
